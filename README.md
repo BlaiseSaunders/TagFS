@@ -12,3 +12,7 @@
   * Both?
   
 With a tag based filesystem you can apply tags to these files and they'll show up in both folders if moved to both folders. Deleting from one folder will remove the tag :^)
+
+
+### Does it work?
+no lol (not yet)
